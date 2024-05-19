@@ -16,7 +16,7 @@
         'data/user_partner_data.xml',
         'views/res_config_settings_views.xml',
     ],
-    'images': ['static/description/main_screenshot.png'],
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'application': False,
     'auto_install': False,
