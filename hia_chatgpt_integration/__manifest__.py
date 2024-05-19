@@ -1,7 +1,7 @@
 {
     'name': 'ChatGPT Integration',
-    'version': '16.0.1.1.2',
-    'license': 'AGPL-3',
+    'version': '16.0.1.0.0',
+    'license': 'GPL-3',
     'summary': 'Odoo ChatGPT Integration',
     'description': 'Allows the application to leverage the capabilities of the GPT language model to generate human-like responses, providing a more natural and intuitive user experience, without installing OpenAI packages.',
     'author': 'Himanjali Intelligent Automation Private Limited',
